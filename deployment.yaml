@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: omer2k1/java-web-app:1.0
+        image: omer2k1/java-web-app:1.0-28
         ports:
         - containerPort: 8080
 ---
